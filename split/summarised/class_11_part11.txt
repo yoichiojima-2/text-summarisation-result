@@ -1,0 +1,10 @@
+- マーケティングの基本は4つのP（Product, Price, Place, Promotion）であり、これは企業側の視点で商品やサービスを考えるものです。
+- 4つのC（Customer, Cost, Convenience, Communication）は、この4つのPを顧客側の視点に変えたものです。
+- AIDMAは顧客の購買行動を分析するためのフレームワークで、Attention（注目）、Interest（興味）、Desire（欲望）、Memory（思い出）、Action（行動）の順序で顧客の行動を考えます。
+- AISASはネット上での購買行動を考えるためのフレームワークで、Attention（注目）、Interest（興味）、Search（検索）、Action（行動）、Satisfaction（満足）の順序で顧客の行動を考えます。
+- 5W1Hは情報を多角的に把握するためのフレームワークで、What（何）、Why（なぜ）、Who（誰）、When（いつ）、Where（どこ）、How（どのように）の質問を使います。
+- PDCAは行動を振り返るためのフレームワークで、Plan（計画）、Do（実行）、Check（確認）、Act（改善）のサイクルを繰り返します。
+- QCDは品質、コスト、納期などを捉えるためのフレームワークです。
+- SWOTは会社や商品の分析によく使われるフレームワークで、Strengths（強み）、Weaknesses（弱み）、Opportunities（機会）、Threats（脅威）の4つの要素を考えます。
+- SWOTを使った後は、それを元にどのように対策を立てるか考える必要があります。
+- クロスSWOTはSWOT分析の結果を組み合わせて、各要素を活かしたり変化させたりすることを考えるフレームワークです。
